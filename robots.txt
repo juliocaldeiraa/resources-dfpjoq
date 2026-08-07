@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://juliocaldeiraa.github.io/resources-dfpjoq/sitemap.xml
